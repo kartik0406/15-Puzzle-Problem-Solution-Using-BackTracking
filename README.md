@@ -31,3 +31,6 @@ user user-given procedures.
 •Therefore, the actual search tree that is traversed Therefore, the actual search tree that is traversed by the algorithm is only a part of the potential tree. by the algorithm is only a part of the potential tree. The total cost of the algorithm is the number of The total cost of the algorithm is the number of nodes of the actual tree times the cost of obtaining nodes of the actual tree times the cost of obtaining and processing each node. This fact should be and processing each node. This fact should be considered when choosing the potential search tree considered when choosing the potential search tree and implementing the pruning test. and implementing the pruning test.
 
 **DEMO IMAGES OF CODE EXECUTION**
+
+![](https://github.com/kartik0406/15-Puzzle-Problem-Solution-Using-BackTracking/blob/main/img1.PNG)
+![](https://github.com/kartik0406/15-Puzzle-Problem-Solution-Using-BackTracking/blob/main/img2.PNG)
